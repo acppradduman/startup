@@ -7,4 +7,5 @@ printf("enter amount and principal")
 scanf("%f%f",&a,&p);
 c=a-p;
 printf("%f",c);
+printf("cogratulats");
 }
